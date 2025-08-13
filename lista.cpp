@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 using namespace std;
 #define LENGHT 10
 
@@ -28,3 +29,4 @@ using namespace std;
     }
 
    
+
